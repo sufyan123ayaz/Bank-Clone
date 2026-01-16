@@ -117,8 +117,7 @@ secure-online-banking/
 └── database/
 └── bank.db
 
-yaml
-Copy code
+
 
 ---
 
@@ -194,10 +193,6 @@ University projects
 Cybersecurity portfolios
 
 Technical interviews
-
-yaml
-Copy code
-
 
 
 
